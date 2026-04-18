@@ -26,7 +26,7 @@ async def analyze_image(file: UploadFile = File(...)):
 
         # 3. AI 엔진 가동
         result = get_image_tags(temp_file_path)
-
+        print(f"✅ 분석 완료! 결과 데이터: {result}")
         return result # {"tags": ["바다", "골든아워", ...]}
 
     except Exception as e:

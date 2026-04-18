@@ -31,7 +31,7 @@ categories = {
     },
     "구도": {
         "3분할": "a photo following the rule of thirds composition",
-        "중앙 배치": "a subject placed exactly in the center of the frame",
+        "중앙배치": "a subject placed exactly in the center of the frame",
         "대칭": "a perfectly symmetrical photo with balance",
         "비대칭": "an asymmetrical composition with intentional imbalance",
         "여백": "a photo with a lot of empty negative space",
